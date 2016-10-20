@@ -88,13 +88,13 @@ Crie uma função com retorno e sem parâmetro para escrever na tela 10 núeros 
 
 # Questão 8
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```enqunto(<condição>){<ação verdadeira>}```.
+Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```enquanto(<condição>){<ação verdadeira>}```.
 
 ---
 
 # Questão 9
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa ao menos uma vez enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```faca{<ação verdadeira>}enqunto(<condição>)```.
+Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa ao menos uma vez enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```faca{<ação verdadeira>}enquanto(<condição>)```.
 
 ---
 
