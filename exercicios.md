@@ -68,7 +68,6 @@ Crie uma função sem retorno e com dois parâmetros. A função deve verificar 
 ```c
 se(<condição>){<ação verdadeira>}
 ```
-
 ```c
 senao {<ação falsa>}
 ```
@@ -77,6 +76,9 @@ Tente mudar a função afim de comparar qual o maior dentre 3 números inteiros 
 
 ```c
 senao se(<condição>) {<ação verdadeira>}
+```
+```c
+senao {<ação falsa>}
 ```
 
 ---
