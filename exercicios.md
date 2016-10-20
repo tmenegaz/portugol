@@ -1,15 +1,15 @@
 # Sumário de questões
 
-1 **[Questão 1](#q1)**  
-2 **[Questão 2](#q2)**  
-3 **[Questão 3](#q3)**  
-4 **[Questão 4](#q4)**  
-5 **[Questão 5](#q5)**  
-6 **[Questão 6](#q6)**  
-7 **[Questão 7](#q7)**  
-8 **[Questão 8](#q8)**  
-9 **[Questão 9](#q9)**  
-10 **[Questão 10](#q10)**  
+1 **[Questão 1](#questão-1)**  
+2 **[Questão 2](#questão-2)**  
+3 **[Questão 3](#questão-3)**  
+4 **[Questão 4](#questão-4)**  
+5 **[Questão 5](#questão-5)**  
+6 **[Questão 6](#questão-6)**  
+7 **[Questão 7](#questão-7)**  
+8 **[Questão 8](#questão-8)**  
+9 **[Questão 9](#questão-9)**  
+10 **[Questão 10](#questão-10)**  
 
 ---
 
@@ -64,16 +64,19 @@ Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura 
 
 Crie uma função sem retorno e com dois parâmetros. A função deve verificar qual é o maior número inteiro positivo, dentre 2 e escrever o maior a partir da comparação do 1º com o 2º parâmetro. Para isso, utilize uma estrutura de condição/seleção _composta_ cujo a assinatura tem a seguinte sintaxe
 
-```se(<condição>){<ação verdadeira>}```
+```
+se(<condição>){<ação verdadeira>}
+```
 
-```senao{<ação falsa>}
+```
+senao{<ação falsa>}
 ```
 
 ---
 
 # Questão 6
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 3](#q3) por meio da estrutura de condição/seleção ```escolha(<opção>){caso:<ação verdadeira> pare}```. Use a função escreva para escrever uma mensagem para o usuário e, imediatamente apos a chamada à função escreva, uma função leia para armazenar o valor digitado pelo usuário na variável de tipo compatível.
+Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 3](#questão-3) por meio da estrutura de condição/seleção ```escolha(<opção>){caso:<ação verdadeira> pare}```. Use a função escreva para escrever uma mensagem para o usuário e, imediatamente apos a chamada à função escreva, uma função leia para armazenar o valor digitado pelo usuário na variável de tipo compatível.
 
 ---
 
