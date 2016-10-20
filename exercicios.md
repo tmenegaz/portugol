@@ -48,7 +48,7 @@ Sendo assim, crie uma função para cada tipo de dado e que realize operações 
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie uma função com retorno para cada uma das 4 operações aritiméticas básicas, a saber: ```+``` ```-``` ```*``` ```/```.
 
-Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura de condição/seleção _simples_ cujo a assinatura tem a seguinte sintaxe ```se(<condição>){<ação verdadeira>}```. Caso o divisor seja igual a ```0``` retorne uma mensagem para informar ao usuário que não é possível realizar uma divisão por ```0```.     
+Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura de condição/seleção _simples_ cujo a assinatura tem a seguinte sintaxe ```se(<condição>){<ação se condição verdadeira>}```. Caso o divisor seja igual a ```0``` retorne uma mensagem para informar ao usuário que não é possível realizar uma divisão por ```0```.     
 
 ---
 
