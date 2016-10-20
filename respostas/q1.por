@@ -5,19 +5,19 @@ programa
 	logico l = verdadeiro
 	cadeia cad = "cadeia"
 	caracter carac = 'a'
-	
+
 	funcao inicio()
   	{
-		
+
   	}
 }
 
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 107; 
+/* $$$ Portugol Studio $$$
+ *
+ * Esta seï¿½ï¿½o do arquivo guarda informaï¿½ï¿½es do Portugol Studio.
+ * Vocï¿½ pode apagï¿½-la se estiver utilizando outro editor.
+ *
+ * @POSICAO-CURSOR = 107;
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
