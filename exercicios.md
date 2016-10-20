@@ -48,7 +48,7 @@ Onde o tipo da função pode ser retirado para funções sem retorno a os parâm
 <nome>(<tipo> <nome>,[<tipo> <nome>],[...])
 ```
 
-Sendo assim, crie uma função para cada tipo de dado e que realize operações compatívesi com seus tipos. Para cada função declare pelo menos um parâmetro. qunado chamar a função passe o rgumento de tipo compatível com o parâmetro declarado.
+Sendo assim, crie uma função para cada tipo de dado e que realize operações compatívesi com seus tipos. Para cada função declare pelo menos um parâmetro. qunado chamar a função passe o argumento de tipo compatível com o parâmetro declarado.
 
 ---
 
