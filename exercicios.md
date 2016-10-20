@@ -34,6 +34,7 @@ _Tipos:_
 - ```lógico```
 - ```cadeia```
 - ```caracter```
+
 ---
 
 # Questão 3
