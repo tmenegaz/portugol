@@ -2,43 +2,49 @@ programa
 {
 	funcao maior2(inteiro a, inteiro b){
 		se(a > 0 e b > 0 e a > b){
-			escreva(a," é maior")
+			escreva(a," Ã© maior")
 		} senao {
-			escreva(b," é maior")
+			escreva(b," Ã© maior")
 		}
 	}
 
 	funcao maior3(inteiro a, inteiro b, inteiro c){
-		se(a > 0 e b > 0 e c > 0 e a > b e a > c){
-			escreva(a," é maior")
-		} senao se(a > 0 e b > 0 e c > 0 e b > a e b > c){
-			escreva(b," é maior")
-		} senao se(a > 0 e b > 0 e c > 0 e c == b e a > c){
-			escreva(a," é maior")
-		} senao se(a > 0 e b > 0 e c > 0 e a == c e b > a){
-			escreva(b," é maior")
-		} senao se(a > 0 e b > 0 e c > 0 e c > a e c > b){
-			escreva(c," é maior")
-		} senao se(a > 0 e b > 0 e c > 0 e b == a e c > b){
-			escreva(c," é maior")
+		se(a >= 0 e b >= 0 e c >= 0 e a > b e a > c){
+			escreva(a," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e c == b e a > c){
+			escreva(a," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e c == b e b > a){
+			escreva(b," Ã© maior") // fim das verificaÃ§Ãµes para a
+		} senao se(a >= 0 e b >= 0 e c >= 0 e b > a e b > c){
+			escreva(b," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e a == c e b > a){
+			escreva(b," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e a == c e a > b){
+			escreva(a," Ã© maior")// fim das verificaÃ§Ãµes para b
+		} senao se(a >= 0 e b >= 0 e c >= 0 e c > a e c > b){
+			escreva(c," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e b == a e c > b){
+			escreva(c," Ã© maior")
+		} senao se(a >= 0 e b >= 0 e c >= 0 e b == a e b > c){
+			escreva(a," Ã© maior")// fim das verificaÃ§Ãµes para c
 		} senao {
-			escreva("não tem maior")
+			escreva("sÃ£o todos iguais")
 		}
 	}
-	
+
 	funcao inicio()
   	{
-		//maior2(1,2)
-		maior3(6, 6, 7)
+		escreva("O maior dentre 2 nÃºmeros Ã© ",maior2(1,2),"\n\n")
+		escreva("O maior dentre 3 nÃºmeros Ã© ",maior3(0,2,2),"\n")
   	}
 }
 
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 764; 
+/* $$$ Portugol Studio $$$
+ *
+ * Esta seï¿½ï¿½o do arquivo guarda informaï¿½ï¿½es do Portugol Studio.
+ * Vocï¿½ pode apagï¿½-la se estiver utilizando outro editor.
+ *
+ * @POSICAO-CURSOR = 1014;
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
