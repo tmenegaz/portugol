@@ -14,19 +14,19 @@ programa
 		} senao se(a >= 0 e b >= 0 e c >= 0 e c == b e a > c){
 			escreva(a," é maior")
 		} senao se(a >= 0 e b >= 0 e c >= 0 e c == b e b > a){
-			escreva(b," é maior") // fim das verificações para a
+			escreva(b," é maior") // fim das condições para a
 		} senao se(a >= 0 e b >= 0 e c >= 0 e b > a e b > c){
 			escreva(b," é maior")
 		} senao se(a >= 0 e b >= 0 e c >= 0 e a == c e b > a){
 			escreva(b," é maior")
 		} senao se(a >= 0 e b >= 0 e c >= 0 e a == c e a > b){
-			escreva(a," é maior")// fim das verificações para b
+			escreva(a," é maior")// fim das condições para b
 		} senao se(a >= 0 e b >= 0 e c >= 0 e c > a e c > b){
 			escreva(c," é maior")
 		} senao se(a >= 0 e b >= 0 e c >= 0 e b == a e c > b){
 			escreva(c," é maior")
 		} senao se(a >= 0 e b >= 0 e c >= 0 e b == a e b > c){
-			escreva(a," é maior")// fim das verificações para c
+			escreva(a," é maior")// fim das condições para c
 		} senao {
 			escreva("são todos iguais")
 		}
