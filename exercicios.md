@@ -15,7 +15,7 @@
 
 # Questão 1
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma variável para cada tipo de dado e inicie-as com valor compatíveis com os tipos declarados.  
+Crie uma variável para cada tipo de dado e inicie-as com valores compatíveis com os tipos declarados.  
 _Tipos:_
 - ```real```
 - ```inteiro```
@@ -27,7 +27,7 @@ _Tipos:_
 
 # Questão 2
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie variáveis homegêneas de vetores e matrizes para cada tipo de dado e inicie-os com valor compatíveis com os tipos declarados.  
+Crie variáveis homegêneas de vetores e matrizes para cada tipo de dado e inicie-os com valores compatíveis com os tipos declarados.  
 _Tipos:_
 - ```real```
 - ```inteiro```
@@ -39,11 +39,11 @@ _Tipos:_
 # Questão 3
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Para  cria uma função é necessário usara a assinatura
-```por
+```c
 funcao <tipo> <nome>(<tipo> <nome>,[<tipo> <nome>],[...]){retorne <tipo>}
 ```
 Onde o tipo da função pode ser retirado para funções sem retorno a os parâmetros, dentro dos parênteses, também para o caso de função chamadas sem argumentos. É importante destacar que a função é chamada pelo nome seguido dos parêntese. Dentro dos parêntese da chamada de uma função pode existir ```0``` ou _muitos_ argumentos e possui a seguinte sintaxe básica:
-```por
+```c
 <nome>(<tipo> <nome>,[<tipo> <nome>],[...])
 ```
 
@@ -64,12 +64,12 @@ Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura 
 
 Crie uma função sem retorno e com dois parâmetros. A função deve verificar qual é o maior número inteiro positivo, dentre 2 e escrever o maior a partir da comparação do 1º com o 2º parâmetro. Para isso, utilize uma estrutura de condição/seleção _composta_ cujo a assinatura tem a seguinte sintaxe
 
-```
+```c
 se(<condição>){<ação verdadeira>}
 ```
 
-```
-senao{<ação falsa>}
+```c
+senao {<ação falsa>}
 ```
 
 ---
