@@ -16,16 +16,14 @@
 # Questão 1
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie uma variável para cada tipo de dado e inicie-as com valores compatíveis com os tipos declarados.  
-_Tipos:_
-```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```   
+_Tipos:_ ```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```  
 
 ---
 
 # Questão 2
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie variáveis homegêneas de vetores e matrizes para cada tipo de dado e inicie-os com valores compatíveis com os tipos declarados.  
-_Tipos:_
-```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```
+_Tipos:_ ```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```  
 
 ---
 
