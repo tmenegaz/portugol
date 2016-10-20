@@ -100,7 +100,7 @@ Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é
 
 # Questão 10
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) de entrada e uma função de saida equivalente. Por fim chame apenas uma das funções na função sem retorno início. Modifique cada questão, se necessário, afim de adequa-las a um padrão de alto acoplamento e zero dependência.
+Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) de entrada e uma função de saida equivalente. Por fim, chame apenas uma das funções na função sem retorno início. Modifique cada questão, se necessário, afim de adequa-las a um padrão de alto acoplamento e zero dependência.
 
 ---
 
