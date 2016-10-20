@@ -1,0 +1,104 @@
+# Sumário de questões
+
+1 **[Questão 1](#q1)**  
+2 **[Questão 2](#q2)**  
+3 **[Questão 3](#q3)**  
+4 **[Questão 4](#q4)**  
+5 **[Questão 5](#q5)**  
+6 **[Questão 6](#q6)**  
+7 **[Questão 7](#q7)**  
+8 **[Questão 8](#q8)**  
+9 **[Questão 9](#q9)**  
+10 **[Questão 10](#q10)**  
+
+---
+
+# Questão 1
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma variável para cada tipo de dado e inicie-as com valor compatíveis com os tipos declarados.  
+_Tipos:_
+- ```real```
+- ```inteiro```
+- ```lógico```
+- ```cadeia```
+- ```caracter```
+
+---
+
+# Questão 2
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie variáveis homegêneas de vetores e matrizes para cada tipo de dado e inicie-os com valor compatíveis com os tipos declarados.  
+_Tipos:_
+- ```real```
+- ```inteiro```
+- ```lógico```
+- ```cadeia```
+- ```caracter```
+---
+
+# Questão 3
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Para  cria uma função é necessário usara a assinatura
+```por
+funcao <tipo> <nome>(<tipo> <nome>,[<tipo> <nome>],[...]){retorne <tipo>}
+```
+Onde o tipo da função pode ser retirado para funções sem retorno a os parâmetros, dentro dos parênteses, também para o caso de função chamadas sem argumentos. É importante destacar que a função é chamada pelo nome seguido dos parêntese. Dentro dos parêntese da chamada de uma função pode existir ```0``` ou _muitos_ argumentos e possui a seguinte sintaxe básica:
+```por
+<nome>(<tipo> <nome>,[<tipo> <nome>],[...])
+```
+
+Sendo assim, crie uma função para cada tipo de dado e que realize operações compatívesi com seus tipos. Para cada função declare pelo menos um parâmetro. qunado chamar a função passe o rgumento de tipo compatível com o parâmetro declarado.
+
+---
+
+# Questão 4
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função com retorno para cada uma das 4 operações aritiméticas básicas, a saber: ```+``` ```-``` ```*``` ```/```.
+
+Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura de condição/seleção _simples_ cujo a assinatura tem a seguinte sintaxe ```se(<condição>){<ação verdadeira>}```. Caso o divisor seja igual a ```0``` retorne uma mensagem para informar ao usuário que não é possível realizar uma divisão por ```0```.     
+
+---
+
+# Questão 5
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+
+Crie uma função sem retorno e com dois parâmetros. A função deve verificar qual é o maior número inteiro positivo, dentre 2 e escrever o maior a partir da comparação do 1º com o 2º parâmetro. Para isso, utilize uma estrutura de condição/seleção _composta_ cujo a assinatura tem a seguinte sintaxe
+
+```se(<condição>){<ação verdadeira>}```
+
+```senao{<ação falsa>}
+```
+
+---
+
+# Questão 6
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 3](#q3) por meio da estrutura de condição/seleção ```escolha(<opção>){caso:<ação verdadeira> pare}```. Use a função escreva para escrever uma mensagem para o usuário e, imediatamente apos a chamada à função escreva, uma função leia para armazenar o valor digitado pelo usuário na variável de tipo compatível.
+
+---
+
+# Questão 7
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função com retorno e sem parâmetro para escrever na tela 10 núeros a partir do ```0```. Para isso, utilize a _estrutura de repetição_ ```para(<variável>; <condição>; <iteração>){<ação verdadeira>}```.
+
+---
+
+# Questão 8
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```enqunto(<condição>){<ação verdadeira>}```.
+
+---
+
+# Questão 9
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa ao menos uma vez enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ ```faca{<ação verdadeira>}enqunto(<condição>)```.
+
+---
+
+# Questão 10
+[Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
+Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) de entrada e uma função de saida equivalente. Por fim chame apenas uma das funções na função sem retorno início. Modifique cada questão, se necessário, afim de adequa-las a um padrão de alto acoplamento e zero dependência.
+
+---
+
+[Creative Commons Attribution 3.0 Unported (CC BY 3.0) License](http://creativecommons.org/licenses/by/3.0/)
