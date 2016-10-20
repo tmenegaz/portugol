@@ -73,6 +73,12 @@ se(<condição>){<ação verdadeira>}
 senao {<ação falsa>}
 ```
 
+Tente mudar a função afim de comparar qual o maior dentre 3 números inteiros positivos. A sintaxe poderá ser alterada para:
+
+```c
+senao se(<condição>) {<ação verdadeira>}
+```
+
 ---
 
 # Questão 6
