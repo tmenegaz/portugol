@@ -43,7 +43,7 @@ Para  cria uma função é necessário usara a assinatura
 ```c
 funcao <tipo> <nome>(<tipo> <nome>,[<tipo> <nome>],[...]){retorne <tipo>}
 ```
-Onde o tipo da função pode ser retirado para funções sem retorno a os parâmetros, dentro dos parênteses, também para o caso de função chamadas sem argumentos. É importante destacar que a função é chamada pelo nome seguido dos parêntese. Dentro dos parêntese da chamada de uma função pode existir ```0``` ou _muitos_ argumentos e possui a seguinte sintaxe básica:
+Onde o tipo da função pode ser retirado para funções sem retorno a os parâmetros, dentro dos parênteses, também, para o caso de função chamadas sem argumentos. É importante destacar que a função é chamada pelo nome seguido dos parêntese. Dentro dos parêntese da chamada de uma função pode existir ```0``` ou _muitos_ argumentos e possui a seguinte sintaxe básica:
 ```c
 <nome>(<tipo> <nome>,[<tipo> <nome>],[...])
 ```
