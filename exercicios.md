@@ -78,7 +78,7 @@ senao {<ação se condição falsa>}
 
 # Questão 6
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 3](#questão-3) por meio da estrutura de condição/seleção ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente apos a chamada à função escreva - uma função leia para armazenar o valor digitado na variável de tipo compatível.
+Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 4](#questão-4) por meio da estrutura de condição/seleção ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente apos a chamada à função escreva - uma função leia para armazenar o valor digitado na variável de tipo compatível.
 
 ---
 
