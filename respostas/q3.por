@@ -14,7 +14,7 @@ programa
 
 	funcao logico l(logico v, logico f){
 		logico naoFalso = v
-		retorne nao Falso
+		retorne naoFalso
 	}
 
 	funcao cadeia cad(cadeia c[]){
