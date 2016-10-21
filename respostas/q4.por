@@ -12,32 +12,34 @@ programa
 	funcao real mult(real m[]){
 		retorne m[0]*m[1]
 	}
-	
-	funcao cadeia div(real d[]){
+
+// solu√ß√£o com convers√£o
+	funcao cadeia divCast(real d[]){
 		se(d[1] == 0){
-			retorne "n„o È possÌvel realizar uma divis„o por 0\n"
+			retorne "n√£o √© poss√≠vel realizar uma divis√£o por 0\n"
 		}
 		d[0] = d[0]/d[1]
-		retorne Tipos.real_para_cadeia(d[0])
+		retorne ""+d[0]+"" // ou Tipos.real_para_cadeia(d[0])
 	}
-	
+
+funcao vazio erro(){
+	escreva("n√£o √© poss√≠vel realizar uma divis√£o por 0\n")
+}
+// solu√ß√£o chamando a fun√ß√£o erro para informar o erro na tela
+funcao real div(real d[]){
+	se(d[1] == 0){
+		erro()
+		retorne
+	}
+	d[0] = d[0]/d[1]
+	retorne d[0]
+}
 	funcao inicio()
   	{
 		escreva(soma(2.0, 3.0),"\n")
 		escreva(sub({2.0, 1.0}),"\n")
 		escreva(mult({2.0, 4.0}),"\n")
+		escreva(divCast({2.0, 0.0}),"\n")
 		escreva(div({2.0, 0.0}),"\n")
   	}
 }
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seÁ„o do arquivo guarda informaÁıes do Portugol Studio.
- * VocÍ pode apag·-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 12; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
