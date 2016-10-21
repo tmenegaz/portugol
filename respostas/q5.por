@@ -1,7 +1,7 @@
 programa
 {
 	funcao maior2(inteiro a, inteiro b){
-		se(a > 0 e b > 0 e a > b){
+		se(a >= 0 e b >= 0 e a > b){
 			escreva(a," é maior")
 		} senao {
 			escreva(b," é maior")
