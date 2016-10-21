@@ -19,7 +19,7 @@ programa
 			retorne "não é possível realizar uma divisão por 0\n"
 		}
 		d[0] = d[0]/d[1]
-		retorne ""+d[0]+"" // ou Tipos.real_para_cadeia(d[0])
+		retorne ""+d[0] // ou Tipos.real_para_cadeia(d[0])
 	}
 
 funcao vazio erro(){
