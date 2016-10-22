@@ -41,7 +41,7 @@ programa
 	 * Sem a 1ª função - nomeSnome1() -  não é possível criar a função do enunciado.
 	 * A 2ª função - imprimeNsN() -  atende totalmente ao enunciado por ser sem retorno e
 	 * com 2 parâmetros.
-	 * A apresentação delas passa aser da seguinte forma
+	 * A apresentação delas passa a ser da seguinte forma
 	 */
 
 	funcao vazio nomeSnome1(){
