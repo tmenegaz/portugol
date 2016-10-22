@@ -78,7 +78,7 @@ senao {<ação se condição falsa>}
 
 # Questão 6
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 4](#questão-4) por meio da estrutura de condição/seleção ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente apos a chamada à função escreva - uma função leia para armazenar o valor digitado na variável de tipo compatível.
+Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 4](#questão-4) por meio da estrutura de condição/seleção, em uma função para escolha. A sintaxe da estrutura: ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente após a chamada à função ```escreva()``` - uma função leia para armazenar o valor digitado na variável de tipo compatível.
 
 ---
 
@@ -90,13 +90,13 @@ Crie uma função com retorno e sem parâmetro para escrever na tela uma certa q
 
 # Questão 8
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ com teste de condição no começo ```enquanto(<condição>){<ação se condição verdadeira>}```.
+Crie uma função sem retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ com teste de condição no começo ```enquanto(<condição>){<ação se condição verdadeira>}```.
 
 ---
 
 # Questão 9
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e com 3 parâmetros para calcular a média aritimética simples de 3 valores enquanto _qualquer dos valores_ for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ com teste de condição no final ```faca{<ação independente da condição ser ou não verdadeira>}enquanto(<condição>)```.
+Crie uma função com retorno e com 3 parâmetros para calcular a média aritimética simples de 3 valores enquanto _qualquer dos valores_ for diferente de algum valor do tipo ```cadeia```. Para isso, utilize a _estrutura de repetição_ com teste de condição no final ```faca{<ação independente da condição ser ou não verdadeira>}enquanto(<condição>)```.
 
 ---
 
