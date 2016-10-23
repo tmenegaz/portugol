@@ -56,7 +56,7 @@ programa
 
 			se(ns[0] == "s"){
 				ns[1] = ""
-				i = 2
+				pare
 			}
 		}
 		imprimeNsN(ns[0], ns[1])
@@ -70,6 +70,7 @@ programa
 		enquanto(o != 's'){
 			escreva(nome+" "+snome+"\n")
 			nomeSnome1()
+			pare
 		}
 	}
 
