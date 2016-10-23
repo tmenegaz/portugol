@@ -17,6 +17,7 @@
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie uma variável para cada tipo de dado e inicie-as com valores compatíveis com os tipos declarados.  
 _Tipos:_ ```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q1.por)  
 
 ---
 
@@ -24,6 +25,7 @@ _Tipos:_ ```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie variáveis homegêneas de vetores e matrizes para cada tipo de dado e inicie-os com valores compatíveis com os tipos declarados.  
 _Tipos:_ ```real``` ```inteiro``` ```lógico``` ```cadeia``` ```caracter```  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q2.por)  
 
 ---
 
@@ -38,7 +40,8 @@ Onde o tipo da função pode ser retirado para funções sem retorno a os parâm
 <nome>(<tipo> <nome>,[<tipo> <nome>],[...])
 ```
 
-Sendo assim, crie uma função para cada tipo de dado e que realize operações compatíveis com seus tipos. Para cada função declare pelo menos um parâmetro. quando chamar a função passe o argumento de tipo compatível com o parâmetro declarado.
+Sendo assim, crie uma função para cada tipo de dado e que realize operações compatíveis com seus tipos. Para cada função declare pelo menos um parâmetro. quando chamar a função passe o argumento de tipo compatível com o parâmetro declarado.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q3.por)
 
 ---
 
@@ -46,7 +49,8 @@ Sendo assim, crie uma função para cada tipo de dado e que realize operações 
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
 Crie uma função com retorno para cada uma das 4 operações aritiméticas básicas, a saber: ```+``` ```-``` ```*``` ```/```.
 
-Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura de condição/seleção _simples_ cujo a assinatura tem a seguinte sintaxe ```se(<condição>){<ação se condição verdadeira>}```. Caso o divisor seja igual a ```0``` retorne uma mensagem para informar ao usuário que não é possível realizar uma divisão por ```0```.     
+Tome medidas para evitar divisão por ```0```. Para isso, utilize uma estrutura de condição/seleção _simples_ cujo a assinatura tem a seguinte sintaxe ```se(<condição>){<ação se condição verdadeira>}```. Caso o divisor seja igual a ```0``` retorne uma mensagem para informar ao usuário que não é possível realizar uma divisão por ```0```.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q4.por)     
 
 ---
 
@@ -72,37 +76,43 @@ senao se(<condição>) {<ação se condição verdadeira>}
 ```
 ```c
 senao {<ação se condição falsa>}
-```
+```  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q5.por)
 
 ---
 
 # Questão 6
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 4](#questão-4) por meio da estrutura de condição/seleção, em uma função para escolha. A sintaxe da estrutura: ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente após a chamada à função ```escreva()``` - uma função leia para armazenar o valor digitado na variável de tipo compatível.
+Crie uma função sem retorno e sem parâmetro que solicita que um usuário escolha uma das operações da [Questão 4](#questão-4) por meio da estrutura de condição/seleção, em uma função para escolha. A sintaxe da estrutura: ```escolha(<opção>){caso <valor da opção>:<ação se opção verdadeira> pare [caso<valor da opção>:<ação se opção verdadeira> pare][...][caso contrario:<ação se opção contrária>]}```. Use a função escreva para escrever uma mensagem para o usuário e - imediatamente após a chamada à função ```escreva()``` - uma função leia para armazenar o valor digitado na variável de tipo compatível.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q6.por)
 
 ---
 
 # Questão 7
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e sem parâmetro para escrever na tela uma certa quantidade de números (tente com 10 números) a partir do ```0```. Para isso, utilize a _estrutura de repetição_ controlada por variável: ```para(<variável>; <condição>; <iteração>){<ação se condição verdadeira>}```.
+Crie uma função com retorno e sem parâmetro para escrever na tela uma certa quantidade de números (tente com 10 números) a partir do ```0```. Para isso, utilize a _estrutura de repetição_ controlada por variável: ```para(<variável>; <condição>; <iteração>){<ação se condição verdadeira>}```.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q7.por)
 
 ---
 
 # Questão 8
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função sem retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ com teste de condição no começo ```enquanto(<condição>){<ação se condição verdadeira>}```.
+Crie uma função sem retorno e com 2 parâmetro para escrever na tela o nome é o sobrenome de uma pessoa enquanto o nome for diferente de algum valor do tipo ```caracter```. Para isso, utilize a _estrutura de repetição_ com teste de condição no começo ```enquanto(<condição>){<ação se condição verdadeira>}```.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q8.por)
 
 ---
 
 # Questão 9
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função com retorno e com 3 parâmetros para calcular a média aritimética simples de 3 valores enquanto _qualquer dos valores_ for diferente de algum valor do tipo ```cadeia```. Para isso, utilize a _estrutura de repetição_ com teste de condição no final ```faca{<ação independente da condição ser ou não verdadeira>}enquanto(<condição>)```.
+Crie uma função com retorno e com 3 parâmetros para calcular a média aritimética simples de 3 valores enquanto _qualquer dos valores_ for diferente de algum valor do tipo ```cadeia```. Para isso, utilize a _estrutura de repetição_ com teste de condição no final ```faca{<ação independente da condição ser ou não verdadeira>}enquanto(<condição>)```.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q9.por)
 
 ---
 
 # Questão 10
 [Voltar ao topo(Sumário de questões)](#sumário-de-questões)  
-Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) de entrada e uma função de saida equivalente. Por fim, chame apenas uma das funções na função sem retorno início afim de exutar ao menos três funções. Modifique cada questão, se necessário, afim de adequa-las a um padrão de alto acoplamento e zero dependência.
+Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) de entrada e uma função de saida equivalente. Por fim, chame apenas uma das funções na função sem retorno início afim de exutar ao menos três funções. Modifique cada questão, se necessário, afim de adequa-las a um padrão de alto acoplamento e zero dependência.  
+[resposta](https://github.com/tmenegaz/portugol/blob/master/respostas/q10.por)
 
 ---
 
