@@ -116,8 +116,4 @@ Crie uma função que, para cada questão anterior, receba algum(ns) valor(es) d
 
 ---
 
-Depois de responder as questões verifique as [respostas](https://github.com/tmenegaz/portugol/tree/master/respostas) sugeridas.
-
----
-
 [Creative Commons Attribution 3.0 Unported (CC BY 3.0) License](http://creativecommons.org/licenses/by/3.0/)
