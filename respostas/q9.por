@@ -20,7 +20,7 @@ programa
 	funcao vazio nota(){
 		cadeia nota[4]
 		para(inteiro i = 0; i < 3; i++){
-			escreva("Digite a "+(i+1)+"ª nota ou s para sair:\n\t")
+			escreva("Digite a "+(i+1)+"ï¿½ nota ou s para sair:\n\t")
 			leia(nota[i])
 			se(nota[i] == "s"){
 				para(inteiro j = i+1; j < 4; j++){
@@ -38,15 +38,3 @@ programa
 			nota()
   	}
 }
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 395; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
