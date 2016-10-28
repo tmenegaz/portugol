@@ -12,7 +12,7 @@ Os projetos para obtenção da 3º nota da disciplina de Lógica de programaçã
 
 ##  i. Data  
 [Voltar ao topo(Sumário)](#sumário)  
-Cada grupo terá uma aula para apresentar seu projeto. As apresentações iniciam a partir da _3ª feira_, dia _01/11/2016_ e se extendem até a _3ª feira_, dia _08/11/2016_. Para os estudantes que não obtiverem média igual ou maior do que _7,0_, (```(n1+n2+n3)/3```), a _avf_ será dia _09/11/2016_.
+Cada grupo terá uma aula para apresentar seu projeto. As apresentações iniciam a partir da _3ª feira_, dia _01/11/2016_ e se extendem até a _3ª feira_, dia _08/11/2016_. Para os estudantes que não obtiverem média igual ou maior do que _7.0_, ```(n1+n2+n3)/3```, a _avf_ será dia _09/11/2016_.
 
 
 ---
