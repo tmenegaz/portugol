@@ -16,10 +16,24 @@ Os projetos para obtenção da 3º nota da disciplina de Lógica de programaçã
 [Voltar ao topo(Sumário)](#sumário)  
 Cada grupo terá uma aula para apresentar seu projeto. As apresentações iniciam a partir da _3ª feira_, dia _01/11/2016_ e se extendem até a _3ª feira_, dia _08/11/2016_. Para os estudantes que não obtiverem média igual ou maior do que _7.0_, ```(n1+n2+n3)/3```, a _avf_ será dia _09/11/2016_.  
 
-## Critérios  
+## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme a tabela abaixo.  
-|
+|Apresentação      |ponto|
+|------------------|:---:|
+|projeto           |0.5  |
+|ramo              |0.5  |
+|scopo             |0.5  |
+|identidade visual |0.25 |
+
+|Codificação     |ponto |
+|----------------|:----:|
+|modularização   |0.75  |
+|não dependência |0.75  |
+|acoplamento     |0.75  |
+
+
+
 
 
 ---
