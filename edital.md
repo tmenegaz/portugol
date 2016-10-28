@@ -51,8 +51,9 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 **Para o grupo**
 
-|Critérios         |integrantes|ponto|
-|------------------|5          |:---:|
+|Critérios         |quantidade |ponto|
+|------------------|:---------:|:---:|
+|integrantes       |5         | |
 |Apresentação                 |2 |
 |Disciplina                   |8   |
 |`TOTAL`                      |10|
