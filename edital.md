@@ -28,9 +28,11 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |ramo              |0.25 |
 |scopo             |0.25 |
 |identidade visual |0.25 |
-|modularização     |0.5  |
-|não dependência   |0.5  |
+|modularização     |0.25 |
+|não dependência   |0.25 |
 |acoplamento       |0.5  |
+|------------------|:---:|
+|`TOTAL`           |**2**|
 
 
 
