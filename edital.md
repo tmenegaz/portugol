@@ -18,20 +18,17 @@ Cada grupo terá uma aula para apresentar seu projeto. As apresentações inicia
 
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
-Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme as tabelas abaixo.
-
+Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme as tabelas abaixo.  
+**Para o grupo**  
 |Apresentação      |ponto|
 |------------------|:---:|
 |projeto           |0.5  |
 |ramo              |0.5  |
 |scopo             |0.5  |
 |identidade visual |0.25 |
-
-|Codificação     |ponto |
-|----------------|:----:|
-|modularização   |0.75  |
-|não dependência |0.75  |
-|acoplamento     |0.75  |
+|modularização     |0.75 |
+|não dependência   |0.75 |
+|acoplamento       |0.75 |
 
 
 
