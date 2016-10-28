@@ -18,7 +18,8 @@ Cada grupo terá uma aula para apresentar seu projeto. As apresentações inicia
 
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
-Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme a tabela abaixo.  
+Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme as tabelas abaixo.
+
 |Apresentação      |ponto|
 |------------------|:---:|
 |projeto           |0.5  |
