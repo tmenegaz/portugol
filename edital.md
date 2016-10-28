@@ -65,7 +65,7 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |Total de critérios|integrantes |ponto|
 |:----------------:|:---------:|:---:|
 |10                |5         |**50** |   
-`total de critério vezes integrantes`
+> `total de critério vezes integrantes`
 
 ---
 
