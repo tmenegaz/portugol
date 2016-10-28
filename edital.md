@@ -53,13 +53,18 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 |Critérios         |quantidade |ponto|
 |------------------|:---------:|:---:|
-|integrantes       |5         | |
-|Apresentação      |          |2 |
-|Disciplina        |         |8   |
-|`TOTAL`           |           |10|
+|integrantes       |5          | |
+|Apresentação      |           |2 |
+|Disciplina        |           |8   |
+|`TOTAL`           |           |**10**|
 
+---
 
+**Máximo de pontos**
 
+|Total de critérios|integrantes |ponto|
+|------------------|:---------:|:---:|
+|10                |5         |**50** | `total de critério vezes integrantes`
 
 ---
 
