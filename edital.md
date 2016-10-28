@@ -31,7 +31,6 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |modularização     |0.25 |
 |não dependência   |0.25 |
 |acoplamento       |0.5  |
-|------------------|:---:|
 |`TOTAL`           |**2**|
 
 
