@@ -24,13 +24,13 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 |Apresentação      |ponto|
 |------------------|:---:|
-|projeto           |0.5  |
-|ramo              |0.5  |
-|scopo             |0.5  |
+|projeto           |0.25 |
+|ramo              |0.25 |
+|scopo             |0.25 |
 |identidade visual |0.25 |
-|modularização     |0.75 |
-|não dependência   |0.75 |
-|acoplamento       |0.75 |
+|modularização     |0.5  |
+|não dependência   |0.5  |
+|acoplamento       |0.5  |
 
 
 
