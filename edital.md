@@ -20,7 +20,7 @@ Cada grupo terá uma aula para apresentar seu projeto. As apresentações inicia
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme as tabelas abaixo.
 
-**Para o grupo**
+**Para a apresentação do grupo - per capta**
 
 |Apresentação      |ponto|
 |------------------|:---:|
@@ -32,6 +32,8 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |não dependência   |0.25 |
 |acoplamento       |0.5  |
 |`TOTAL`           |**2**|
+
+---
 
 **Por integrante do grupo**
 
@@ -45,6 +47,15 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |abstração         |1.5 |
 |`TOTAL`           |**8**|
 
+---
+
+**Para o grupo**
+
+|Critérios         |integrantes|ponto|
+|------------------|5          |:---:|
+|Apresentação                 |2 |
+|Disciplina                   |8   |
+|`TOTAL`                      |10|
 
 
 
