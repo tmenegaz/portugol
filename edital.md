@@ -40,12 +40,13 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |Liguagem          |ponto|
 |------------------|:---:|
 |desenvoltura      |0.5 |
-|domínio do conteúdo |1.5 |
+|domínio do conteúdo |1.0 |
 |semântica         |2.0 |
 |sintaxe           |2.0 |
 |organização       |0.5 |
-|abstração         |1.5 |
-|`TOTAL`           |**8**|
+|abstração         |2.0 |
+|`TOTAL`           |**8**|  
+> `soma dos pontos`
 
 ---
 
@@ -55,7 +56,8 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |------------------|:---------:|:---:|
 |Apresentação      |           |2 |
 |Disciplina        |           |8   |
-|`TOTAL`           |           |**10**|
+|`TOTAL`           |           |**10**|  
+> `somas dos pontos`
 
 ---
 
@@ -63,7 +65,7 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 |Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
 |:----------------:|:---------:|:---:|
-|10                |5         |**50** |   
+|10                |5         |**50** |  
 > `total de critério vezes integrantes`
 
 ---
