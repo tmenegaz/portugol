@@ -2,7 +2,7 @@
 # Sumário
 
 1. **[Apresentação](#1-apresentação)**  
-1.2. [Data](#1-2-data)  
+  1. [Data](#12-data)  
 
 ---
 
