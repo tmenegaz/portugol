@@ -33,6 +33,18 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |acoplamento       |0.5  |
 |`TOTAL`           |**2**|
 
+**Por integrante do grupo**
+
+|Liguagem          |ponto|
+|------------------|:---:|
+|desenvoltura      |0.5 |
+|domínio do conteúdo |1.5 |
+|semântica         |2.0 |
+|sintaxe           |2.0 |
+|organização       |0.5 |
+|abstração         |1.5 |
+|`TOTAL`           |**8**|
+
 
 
 
