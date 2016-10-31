@@ -75,7 +75,7 @@ Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os 
 
 ---
 
-## 2. Referências
+## 3. Referências
 [Voltar ao topo(Sumário)](#sumário)  
 Aqui estão as referências para significar cada item das tabelas, a saber:
 
