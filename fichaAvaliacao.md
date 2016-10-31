@@ -65,7 +65,6 @@ Para cada grupo peencher a pontuação conforme o critério adotado. Não ultrap
 |------------------------------|
 |Característica do código que apresenta funções/métodos ou arquivos que executem ações atómicas.|
 
----
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
@@ -98,7 +97,7 @@ Preencher o ponto de cada aluno por grupo. Respeitar o critério de pontuação 
 
 |Desenvoltura |
 |------------------------------|
-|Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado.|
+|Característica do estudante em lidar com situações correntes ou adversas do projeto apresentado.|
 
 
 |Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
@@ -219,7 +218,7 @@ Preencher o ponto de cada aluno por grupo. Respeitar o critério de pontuação 
 
 |Organização         |
 |------------------------------|
-|Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto.|
+|Capacidade do estudante em demonstrar com clareza o conteúdo do projeto.|
 
 
 |Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
