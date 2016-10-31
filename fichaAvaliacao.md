@@ -2,10 +2,9 @@
 
 ## 1. Critérios  
 
-Os grupos terão que seguir os seguintes critérios objetivos para obtenção do ponto, conforme as tabelas abaixo.
+Para cada grupo peencher a pontuação conforme o critério adotado. Não ultrapaçar a pontuaçao máxima permitida para cada critério.
 
 - **Para a apresentação do grupo - per capta**  
-O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
 |Projeto|
 |------------------------------|
@@ -95,16 +94,36 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 ---
 
 - **Por integrante do grupo**  
-Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos os aspéctos da tabela abaixo.
+Preencher o ponto de cada aluno por grupo. Respeitar o critério de pontuação máxima por item.
 
 |Desenvoltura |
 |------------------------------|
 |Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|0.5           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____ |
 
 ---
 
@@ -113,9 +132,29 @@ Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos o
 |Característica do estudante para demonstrar capacidade de debater o projeto defendendo seus argumentos para o desenvolvimento do projeto apresentado.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|1.0           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |_____ |
 
 ---
 
@@ -124,10 +163,29 @@ Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos o
 |Significado de cada elemento do código a partir de uma sintaxe determinada.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|2.0           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
 
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
 ---
 
 |Sintaxe             |
@@ -135,9 +193,27 @@ Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos o
 |Forma de escrita de uma certa linguagem.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|2.0           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
 
 ---
 
@@ -146,9 +222,29 @@ Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos o
 |Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|0.5           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
+|--------------|:------:|:------:|:------:|:------:|:------:|:----|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____|
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
+|--------------|:------:|:------:|:------:|:------:|:------:|:----|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
+|--------------|:------:|:------:|:------:|:------:|:------:|:----|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
+|--------------|:------:|:------:|:------:|:------:|:------:|:----|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo|
+|--------------|:------:|:------:|:------:|:------:|:------:|:----|
+|0.5           |_______ |_______ |_______ |_______ |_______ |_____|
+
 
 ---
 
@@ -157,17 +253,57 @@ Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos o
 |Capacidade do estudante criar situações que demonstrem de forma fria a sintaxe e a semântica de uma linguagem, sem utilizar uma regra de negócio.|
 
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|2.0           |_______ |_______ |_______ |_______ |_______ |
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |_____ |
 
 ---
 
 `TOTAL`  
 
-|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------|:------:|:------:|:------:|:------:|:------:|
-|**8.0**       |_______ |_______ |_______ |_______ |_______ |  
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |_____ |
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |Grupo |
+|--------------|:------:|:------:|:------:|:------:|:------:|:----:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |_____ |  
 > `soma dos pontos`
 
 ---
