@@ -7,6 +7,7 @@ Os grupos terão que seguir os seguintes critérios objetivos para obtenção do
 - **Para a apresentação do grupo - per capta**  
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
+||
 |------------------------------|
 |Identifica qual o projeto afim de demonstrar, por meio do título do projeto, o ramo e escopo, além uma breve apresentação da regra de negócio.|
 |Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
