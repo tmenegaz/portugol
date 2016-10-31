@@ -50,15 +50,15 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 - **Por integrante do grupo**  
 Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os aspéctos da tabela abaixo.
 
-|Linguagem          |ponto|
+|Disciplina        |ponto|
 |------------------|:---:|
-|desenvoltura      |0.5 |
+|desenvoltura        |0.5 |
 |domínio do conteúdo |1.0 |
-|semântica         |2.0 |
-|sintaxe           |2.0 |
-|organização       |0.5 |
-|abstração         |2.0 |
-|`TOTAL`           |**8**|  
+|semântica           |2.0 |
+|sintaxe             |2.0 |
+|organização         |0.5 |
+|abstração           |2.0 |
+|`TOTAL`             |**8**|  
 > `soma dos pontos`
 
 ---
@@ -67,8 +67,8 @@ Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os 
 
 |Critérios         |quantidade |ponto|
 |------------------|:---------:|:---:|
-|Apresentação      |           |2 |
-|Disciplina        |           |8   |
+|**Apresentação**  |           |2 |
+|**Disciplina**    |           |8   |
 |`TOTAL`           |           |**10**|  
 > `somas dos pontos`
 
