@@ -195,7 +195,7 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 |____ |________________ |__________________________ |_____ |
 |____ |________________ |__________________________ |_____ |
 |____ |________________ |__________________________ |_____ |  
-> `total de consolidado vezes quantidade`
+> `total de consolidado vezes a quantidade`
 
 ---
 
