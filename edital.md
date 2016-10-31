@@ -43,7 +43,7 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 |identidade visual  |0.25 |
 |modularização      |0.25 |
 |não dependência    |0.25 |
-|acoplamento        |0.5  |
+|acoplamento        |0.50 |
 |`TOTAL`            |**2**|  
 > `soma dos pontos`
 
