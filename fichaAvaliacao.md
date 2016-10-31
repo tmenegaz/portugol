@@ -17,7 +17,7 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 |modularização      |0.25    |_______ |_______ |_______ |_______ |_______ |
 |não dependência    |0.25    |_______ |_______ |_______ |_______ |_______ |
 |acoplamento        |0.50    |_______ |_______ |_______ |_______ |_______ |
-|`TOTAL`            |**2**   |_______ |_______ |_______ |_______ |_______ |  
+|`TOTAL`            |**2.0** |_______ |_______ |_______ |_______ |_______ |  
 > `soma dos pontos`
 
 ---
@@ -25,15 +25,15 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 - **Por integrante do grupo**  
 Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos os aspéctos da tabela abaixo.
 
-|Disciplina          |Ponto|Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------------|-----|:------:|:------:|:------:|:------:|:------:|
-|desenvoltura        |0.5  |_______ |_______ |_______ |_______ |_______ |
-|domínio do conteúdo |1.0  |_______ |_______ |_______ |_______ |_______ |
-|semântica           |2.0  |_______ |_______ |_______ |_______ |_______ |
-|sintaxe             |2.0  |_______ |_______ |_______ |_______ |_______ |
-|organização         |0.5  |_______ |_______ |_______ |_______ |_______ |
-|abstração           |2.0  |_______ |_______ |_______ |_______ |_______ |
-|`TOTAL`             |**8**|_______ |_______ |_______ |_______ |_______ |  
+|Disciplina          |Ponto  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------------|-------|:------:|:------:|:------:|:------:|:------:|
+|desenvoltura        |0.5    |_______ |_______ |_______ |_______ |_______ |
+|domínio do conteúdo |1.0    |_______ |_______ |_______ |_______ |_______ |
+|semântica           |2.0    |_______ |_______ |_______ |_______ |_______ |
+|sintaxe             |2.0    |_______ |_______ |_______ |_______ |_______ |
+|organização         |0.5    |_______ |_______ |_______ |_______ |_______ |
+|abstração           |2.0    |_______ |_______ |_______ |_______ |_______ |
+|`TOTAL`             |**8.0**|_______ |_______ |_______ |_______ |_______ |  
 > `soma dos pontos`
 
 ---
