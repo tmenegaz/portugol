@@ -4,8 +4,8 @@
 
 1. **[Apresentação](#1-apresentação)**  
   1. [Data](#i-data)  
-2. [Critérios](#2-critérios)  
-3. [Referências](#3-referências)  
+2. **[Critérios](#2-critérios)**  
+3. **[Referências](#3-referências)**  
 
 ---
 
