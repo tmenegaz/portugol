@@ -28,7 +28,7 @@ As apresentações iniciam a partir da _5ª feira_, dia _03/11/2016_ e se estend
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetivos para obtenção do ponto, conforme as tabelas abaixo.
-> recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, discriminadamente, as referências das tabelas de pontuação, a saber:
+> recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, discriminadamente, as [referências das tabelas](https://github.com/tmenegaz/portugol/blob/master/edital.md#3-refer%C3%AAncias) de pontuação, a saber:
 
 - **Para a apresentação do grupo - per capta**  
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
