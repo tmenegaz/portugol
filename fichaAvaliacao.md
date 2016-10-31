@@ -102,7 +102,7 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 > `somas dos pontos`
 
 ## 2. Referências
-[Voltar ao topo(Sumário)](#sumário)  
+
 Aqui estão as referências para significar cada item das tabelas, a saber:
 
 |Item                 |significado|
