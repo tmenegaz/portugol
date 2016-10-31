@@ -99,7 +99,6 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 |Virgilio Bispo dos Santos Junior |_______ |
 |Welton Gomes Lucio |_______ |
 |Weslei Santos Souza |_______ |  
-> `somas dos pontos`
 
 ## 2. Referências
 
