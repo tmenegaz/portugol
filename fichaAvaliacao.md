@@ -9,7 +9,9 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 
 |Projeto|
 |------------------------------|
-|Identifica qual o projeto afim de demonstrar, por meio do título do projeto, o ramo e escopo, além uma breve apresentação da regra de negócio.|  
+|Identifica qual o projeto afim de demonstrar, por meio do título do projeto, o ramo e escopo, além uma breve apresentação da regra de negócio.|
+
+
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
