@@ -3,19 +3,40 @@
 ## 1. Critérios  
 
 Os grupos terão que seguir os seguintes critérios objetivos para obtenção do ponto, conforme as tabelas abaixo.
-> _recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, discriminadamente, as [referências das tabelas](https://github.com/tmenegaz/portugol/blob/master/edital.md#3-refer%C3%AAncias) de pontuação_.
 
 - **Para a apresentação do grupo - per capta**  
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
+|------------------------------|
+|Identifica qual o projeto afim de demonstrar, por meio do título do projeto, o ramo e escopo, além uma breve apresentação da regra de negócio.|
 |Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |projeto            |0.25    |_______ |_______ |_______ |_______ |_______ |
+|------------------------------|
+|Identifica em qual ramo está classificada a atividade da empresa do projeto.|
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |ramo               |0.25    |_______ |_______ |_______ |_______ |_______ |
+
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |escopo             |0.25    |_______ |_______ |_______ |_______ |_______ |
+
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |identidade visual  |0.25    |_______ |_______ |_______ |_______ |_______ |
+
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |modularização      |0.25    |_______ |_______ |_______ |_______ |_______ |
+
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |não dependência    |0.25    |_______ |_______ |_______ |_______ |_______ |
+
+
+|Apresentação       |Ponto   |Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
+|-------------------|--------|:------:|:------:|:------:|:------:|:------:|
 |acoplamento        |0.50    |_______ |_______ |_______ |_______ |_______ |
 |`TOTAL`            |**2.0** |_______ |_______ |_______ |_______ |_______ |  
 > `soma dos pontos`
@@ -106,7 +127,6 @@ Aqui estão as referências para significar cada item das tabelas, a saber:
 
 |Item                 |significado|
 |---------------------|---------|
-|projeto              |Identifica qual o projeto afim de demonstrar, por meio do título do projeto, o ramo e escopo, além uma breve apresentação da regra de negócio.  |
 |ramo                 |Identifica em qual ramo está classificada a atividade da empresa do projeto. |
 |escopo                |Qual o objeto em desenvolvimento para o projeto em seu ramo de atividade. |
 |identidade visual    |Característica que define a apresentação do grupo primando pela clara demonstração dos resultados. Sem que, para isso, ocorram excessos visuais com imagens, corres, fontes etc. |
