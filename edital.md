@@ -28,7 +28,7 @@ As apresentações iniciam a partir da _5ª feira_, dia _03/11/2016_ e se estend
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetivos para obtenção do ponto, conforme as tabelas abaixo.
-> recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, discriminadamente, as [referências das tabelas](https://github.com/tmenegaz/portugol/blob/master/edital.md#3-refer%C3%AAncias) de pontuação, a saber:
+> _recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, discriminadamente, as [referências das tabelas](https://github.com/tmenegaz/portugol/blob/master/edital.md#3-refer%C3%AAncias) de pontuação_.
 
 - **Para a apresentação do grupo - per capta**  
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
@@ -77,7 +77,7 @@ Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os 
 - **Máximo de pontos**  
 A pontuação máxima obtida para o grupo será divulgada para o lider do grupo que deverá retornar ao professor a pontuação individual de seus liderados.
 
-> recomenda-se que o grupo adote critérios de pontução para medir o processo na contrução do projeto.
+> _recomenda-se que o grupo adote critérios de pontução para medir o processo na contrução do projeto_.
 
 |Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
 |:----------------:|:---------:|:---:|
