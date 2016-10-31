@@ -25,6 +25,8 @@ As apresentações iniciam a partir da _5ª feira_, dia _03/11/2016_ e se estend
 |07/11/2016 |G4   |Virgílio|
 |08/11/2016 |G1   |Adailtom|  
 
+---
+
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetivos para obtenção do ponto, conforme as tabelas abaixo.
