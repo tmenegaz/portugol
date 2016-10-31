@@ -74,7 +74,8 @@ Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os 
 ---
 
 - **Máximo de pontos**  
-A pontuação máxima obtida para o grupo será divulgada para o lider do grupo que deverá retornar ao professor a pontuação individual de seus liderados.  
+A pontuação máxima obtida para o grupo será divulgada para o lider do grupo que deverá retornar ao professor a pontuação individual de seus liderados.
+
 > recomenda-se que o grupo adote critérios de pontução para medir o processo na contrução do projeto.
 
 |Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
