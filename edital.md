@@ -36,7 +36,7 @@ Os grupos terão que seguir os seguintes critérios objetivos para obtenção do
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
 |Apresentação       |ponto|
-|-------------------|:---:|
+|-------------------|-----|
 |projeto            |0.25 |
 |ramo               |0.25 |
 |escopo             |0.25 |
@@ -53,7 +53,7 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos os aspéctos da tabela abaixo.
 
 |Disciplina          |ponto|
-|--------------------|:---:|
+|--------------------|----|
 |desenvoltura        |0.5 |
 |domínio do conteúdo |1.0 |
 |semântica           |2.0 |
