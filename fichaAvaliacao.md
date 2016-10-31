@@ -16,6 +16,7 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
+---
 
 |Ramo|
 |------------------------------|
@@ -26,63 +27,63 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
+---
 
 |Escopo               |
 |------------------------------|
-||
+|Qual o objeto em desenvolvimento para o projeto em seu ramo de atividade.|
 
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
+---
 
-|identidade visual  |
+|Identidade visual  |
 |------------------------------|
-||
+|Característica que define a apresentação do grupo primando pela clara demonstração dos resultados. Sem que, para isso, ocorram excessos visuais com imagens, corres, fontes etc.|
 
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
+---
 
 |Modularização      |
 |------------------------------|
-||
+|Característica do código que apresenta um estilo de programação com funções/métodos e arquivos com objetivos atómicas.|
 
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
-
-
-
+---
 
 |Não dependência    |
 |------------------------------|
-||
+|Característica do código que apresenta funções/métodos ou arquivos que executem ações atómicas.|
 
+---
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.25        |_______ |_______ |_______ |_______ |_______ |
 
-
-
-
+---
 
 |Acoplamento        |
 |------------------------------|
-||
+|Característica do código que apresenta funções/métodos ou arquivos que podem ser associados à outros módulos por meio de seus retorno ou argumentos|
 
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
 |0.50        |_______ |_______ |_______ |_______ |_______ |
 
-
+---
 
 |`TOTAL`            |
 |------------------------------|

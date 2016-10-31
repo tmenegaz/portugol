@@ -98,10 +98,10 @@ Aqui estão as referências para significar cada item das tabelas, a saber:
 |ramo                 |Identifica em qual ramo está classificada a atividade da empresa do projeto. |
 |escopo                |Qual o objeto em desenvolvimento para o projeto em seu ramo de atividade. |
 |identidade visual    |Característica que define a apresentação do grupo primando pela clara demonstração dos resultados. Sem que, para isso, ocorram excessos visuais com imagens, corres, fontes etc. |
-|modularização        |Característica do código que apresenta um estilo de programação com funções/métodos e arquivos com objetivos atómicas |
-|não dependência      |Característica do código que apresenta funções/métodos ou arquivos que executem ações atómicas |
-|acoplamento          |Característica do código que apresenta funções/métodos ou arquivos que podem ser associados à outros módulos por meio de seus retorno ou argumentos  |
-|desenvoltura         |Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado |
+|modularização        |Característica do código que apresenta um estilo de programação com funções/métodos e arquivos com objetivos atómicas. |
+|não dependência      |Característica do código que apresenta funções/métodos ou arquivos que executem ações atómicas. |
+|acoplamento          |Característica do código que apresenta funções/métodos ou arquivos que podem ser associados à outros módulos por meio de seus retorno ou argumentos.  |
+|desenvoltura         |Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado. |
 |domínio do conteúdo  |Característica do estudante para demonstrar capacidade de debater o projeto defendendo seus argumentos para o desenvolvimento do projeto apresentado.  |
 |semântica            |Significado de cada elemento do código a partir de uma sintaxe determinada |
 |sintaxe              |Forme de escrita de uma certa linguagem |
