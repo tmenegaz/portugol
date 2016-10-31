@@ -103,9 +103,9 @@ Aqui estão as referências para significar cada item das tabelas, a saber:
 |acoplamento          |Característica do código que apresenta funções/métodos ou arquivos que podem ser associados à outros módulos por meio de seus retorno ou argumentos.  |
 |desenvoltura         |Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado. |
 |domínio do conteúdo  |Característica do estudante para demonstrar capacidade de debater o projeto defendendo seus argumentos para o desenvolvimento do projeto apresentado.  |
-|semântica            |Significado de cada elemento do código a partir de uma sintaxe determinada |
-|sintaxe              |Forme de escrita de uma certa linguagem |
-|organização          |Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto |
+|semântica            |Significado de cada elemento do código a partir de uma sintaxe determinada. |
+|sintaxe              |Forma de escrita de uma certa linguagem. |
+|organização          |Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto. |
 |abstração            |Capacidade do estudante criar situações que demonstrem de forma fria a sintaxe e a semântica de uma linguagem, sem utilizar uma regra de negócio. |
 
 ---

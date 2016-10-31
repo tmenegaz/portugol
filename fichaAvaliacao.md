@@ -85,8 +85,7 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 
 ---
 
-|`TOTAL`            |
-|------------------------------|
+`TOTAL`  
 
 |Ponto máximo|Grupo1  |Grupo2  |Grupo3  |Grupo4  |Grupo5  |
 |------------|:------:|:------:|:------:|:------:|:------:|
@@ -98,15 +97,77 @@ O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto 
 - **Por integrante do grupo**  
 Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos os aspéctos da tabela abaixo.
 
-|Disciplina          |Ponto  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
-|--------------------|-------|:------:|:------:|:------:|:------:|:------:|
-|desenvoltura        |0.5    |_______ |_______ |_______ |_______ |_______ |
-|domínio do conteúdo |1.0    |_______ |_______ |_______ |_______ |_______ |
-|semântica           |2.0    |_______ |_______ |_______ |_______ |_______ |
-|sintaxe             |2.0    |_______ |_______ |_______ |_______ |_______ |
-|organização         |0.5    |_______ |_______ |_______ |_______ |_______ |
-|abstração           |2.0    |_______ |_______ |_______ |_______ |_______ |
-|`TOTAL`             |**8.0**|_______ |_______ |_______ |_______ |_______ |  
+|Desenvoltura |
+|------------------------------|
+|Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+|Domínio do conteúdo |
+|------------------------------|
+|Característica do estudante para demonstrar capacidade de debater o projeto defendendo seus argumentos para o desenvolvimento do projeto apresentado.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|1.0           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+|Semântica          |
+|------------------------------|
+|Significado de cada elemento do código a partir de uma sintaxe determinada.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+|Sintaxe             |
+|------------------------------|
+|Forma de escrita de uma certa linguagem.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+|Organização         |
+|------------------------------|
+|Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|0.5           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+|Abstração           |
+|------------------------------|
+|Capacidade do estudante criar situações que demonstrem de forma fria a sintaxe e a semântica de uma linguagem, sem utilizar uma regra de negócio.|
+
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|2.0           |_______ |_______ |_______ |_______ |_______ |
+
+---
+
+`TOTAL`  
+
+|Ponto máximo  |Aluno1  |Aluno2  |Aluno3  |Aluno4  |Aluno5  |
+|--------------|:------:|:------:|:------:|:------:|:------:|
+|**8.0**       |_______ |_______ |_______ |_______ |_______ |  
 > `soma dos pontos`
 
 ---
@@ -172,25 +233,6 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 |Virgilio Bispo dos Santos Junior |_______ |
 |Welton Gomes Lucio |_______ |
 |Weslei Santos Souza |_______ |  
-
-## 2. Referências
-
-Aqui estão as referências para significar cada item das tabelas, a saber:
-
-|Item                 |significado|
-|---------------------|---------|
-|ramo                 |Identifica em qual ramo está classificada a atividade da empresa do projeto. |
-|escopo                |Qual o objeto em desenvolvimento para o projeto em seu ramo de atividade. |
-|identidade visual    |Característica que define a apresentação do grupo primando pela clara demonstração dos resultados. Sem que, para isso, ocorram excessos visuais com imagens, corres, fontes etc. |
-|modularização        |Característica do código que apresenta um estilo de programação com funções/métodos e arquivos com objetivos atómicas |
-|não dependência      |Característica do código que apresenta funções/métodos ou arquivos que executem ações atómicas |
-|acoplamento          |Característica do código que apresenta funções/métodos ou arquivos que podem ser associados à outros módulos por meio de seus retorno ou argumentos  |
-|desenvoltura         |Característica do estudante em lidar com situações correntes ou adversas, do projeto apresentado |
-|domínio do conteúdo  |Característica do estudante para demonstrar capacidade de debater o projeto defendendo seus argumentos para o desenvolvimento do projeto apresentado.  |
-|semântica            |Significado de cada elemento do código a partir de uma sintaxe determinada |
-|sintaxe              |Forme de escrita de uma certa linguagem |
-|organização          |Capacidade do estudante em demonstrar com clareza o conteúdo seu projeto |
-|abstração            |Capacidade do estudante criar situações que demonstrem de forma fria a sintaxe e a semântica de uma linguagem, sem utilizar uma regra de negócio. |
 
 ---
 
