@@ -35,25 +35,25 @@ Os grupos terão que seguir os seguintes critérios objetivos para obtenção do
 - **Para a apresentação do grupo - per capta**  
 O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
-|Apresentação      |ponto|
-|------------------|:---:|
-|projeto           |0.25 |
-|ramo              |0.25 |
+|Apresentação       |ponto|
+|-------------------|:---:|
+|projeto            |0.25 |
+|ramo               |0.25 |
 |escopo             |0.25 |
-|identidade visual |0.25 |
-|modularização     |0.25 |
-|não dependência   |0.25 |
-|acoplamento       |0.5  |
-|`TOTAL`           |**2**|  
+|identidade visual  |0.25 |
+|modularização      |0.25 |
+|não dependência    |0.25 |
+|acoplamento        |0.5  |
+|`TOTAL`            |**2**|  
 > `soma dos pontos`
 
 ---
 
 - **Por integrante do grupo**  
-Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os aspéctos da tabela abaixo.
+Cada estudante deverá apresentar seu escopo tendo como premissa cumprir todos os aspéctos da tabela abaixo.
 
-|Disciplina        |ponto|
-|------------------|:---:|
+|Disciplina          |ponto|
+|--------------------|:---:|
 |desenvoltura        |0.5 |
 |domínio do conteúdo |1.0 |
 |semântica           |2.0 |
@@ -67,11 +67,11 @@ Cada estudante deverá apresentar seu escopo tem como premissa cumprir todos os 
 
 - **Para cada integrante do grupo**
 
-|Critérios         |quantidade |ponto|
-|------------------|:---------:|:---:|
-|**Apresentação**  |           |2 |
-|**Disciplina**    |           |8   |
-|`TOTAL`           |           |**10**|  
+|Critérios         |ponto |
+|------------------|:----:|
+|**Apresentação**  |2     |
+|**Disciplina**    |8     |
+|`TOTAL`           |**10**|  
 > `somas dos pontos`
 
 ---
@@ -82,8 +82,8 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 > _recomenda-se que o grupo adote critérios de pontução para medir o processo na contrução do projeto_.
 
 |Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
-|:----------------:|:---------:|:---:|
-|10                |5         |**50** |  
+|:--------------------------:|:-------------------------:|:--------------:|
+|10                          |5                          |**50**          |  
 > `total de critério vezes integrantes`
 
 ---
