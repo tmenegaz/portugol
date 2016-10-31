@@ -69,35 +69,36 @@ A pontuação máxima obtida para o grupo será divulgada para o lider do grupo 
 
 |Nome                 |Nota    |
 |---------------------|:------:|
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |
-|____________________ |_______ |  
+|Adailton Andrade da Hora Filho |_______ |
+|Alexsandro Santos Luz |_______ |
+|Antonio Luis Silva França dos Santos |_______ |
+|Claudio Rafael da Apresentação Gomes |_______ |
+|Demerson Silva dos Reis |_______ |
+|Emile de Andrade Ferreira |_______ |
+|Erivaldo dos Santos Brito |_______ |
+|Fabiana da Silva Moreira |_______ |
+|Fabio Gabriel Silva Soares |_______ |
+|Fabricio de Souza Santos |_______ |
+|Hoseane Carvalho dos Santos |_______ |
+|Jean Reis dos Santos |_______ |
+|Julia Santos de Almeida |_______ |
+|Kelly Vasquez de Oliveira |_______ |
+|Luiz Henrique Carvalho dos Anjos |_______ |
+|Mario de Oliveira Neto |_______ |
+|Matheus Rios Santos |_______ |
+|Matheus Santos de Souza |_______ |
+|Nathalia Santana Costa |_______ |
+|Paulo Eduardo de Souza Gomes |_______ |
+|Paulo Vitor Mendes Fragoso |_______ |
+|Paulo Vitor Santos Rodrigues |_______ |
+|Reinaldo Rodrigues da Silva |_______ |
+|Rodrigo da Costa Oliveira |_______ |
+|Thiago Santos de Souza |_______ |
+|Taila Passos de Jesus Santos |_______ |
+|Vanessa Santos Santana |_______ |
+|Virgilio Bispo dos Santos Junior |_______ |
+|Welton Gomes Lucio |_______ |
+|Weslei Santos Souza |_______ |  
 > `somas dos pontos`
 
 ## 2. Referências
