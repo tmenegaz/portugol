@@ -5,7 +5,7 @@
 1. **[Apresentação](#1-apresentação)**  
   1. [Data](#i-data)  
 2. [Critérios](#2-critérios)  
-3. [Referências](#referências)  
+3. [Referências](#3-referências)  
 
 ---
 
@@ -77,7 +77,43 @@ Cada esttudante deverá apresentar seu scopo tem como premissa cumprir todos os 
 
 ## 2. Referências
 [Voltar ao topo(Sumário)](#sumário)  
+Aqui estão as referências para significar cada item das tabelas, a saber:
+|Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
+|----------------|---------|
+|projeto           |0.25 |
+|ramo              |0.25 |
+|scopo             |0.25 |
+|identidade visual |0.25 |
+|modularização     |0.25 |
+|não dependência   |0.25 |
+|acoplamento       |0.5  |
+|`TOTAL`           |**2**|  
+> `soma dos pontos`
 
+---
+
+- **Por integrante do grupo**
+Cada esttudante deverá apresentar seu scopo tem como premissa cumprir todos os aspectos da tabela abaixo.
+
+|Liguagem          |ponto|
+|------------------|:---:|
+|desenvoltura      |0.5 |
+|domínio do conteúdo |1.0 |
+|semântica         |2.0 |
+|sintaxe           |2.0 |
+|organização       |0.5 |
+|abstração         |2.0 |
+|`TOTAL`           |**8**|  
+> `soma dos pontos`
+
+---
+
+- **Para cada integrante do grupo**
+
+|Critérios         |quantidade |ponto|
+|------------------|:---------:|:---:|
+|Apresentação      |           |2 |
+|Disciplina        |           |8   |
 
 ---
 
