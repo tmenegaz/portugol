@@ -5,12 +5,13 @@
 1. **[Apresentação](#1-apresentação)**  
   1. [Data](#i-data)  
 2. [Critérios](#2-critérios)  
+3. [Referências](#referências)  
 
 ---
 
 ## 1. Apresentação  
 [Voltar ao topo(Sumário)](#sumário)  
-Os projetos para obtenção da 3º nota da disciplina de Lógica de programação estão distribuidos em 5 grupos. O tema para os projeto é livre. O projeto deverá ser construído com base em uma regra de negócio, como: controle de estoque, aluguel, venda, controle de processo, jogo, etc.
+Os projetos para obtenção da 3º nota da disciplina de Lógica de programação estão distribuidos em 5 grupos. O tema para os projeto é livre. O projeto deverá ser construído com base em uma regra de negócio, como: controle de estoque, aluguel, venda, controle de processo, jogo, processos, serviços etc.
 
 ###  i. Data  
 [Voltar ao topo(Sumário)](#sumário)  
@@ -19,8 +20,10 @@ Cada grupo terá uma aula para apresentar seu projeto. As apresentações inicia
 ## 2. Critérios  
 [Voltar ao topo(Sumário)](#sumário)  
 Os grupos terão que seguir os seguintes critérios objetovos para obteção do ponto, conforme as tabelas abaixo.
+> recomenda-se que cada parte da apresentação para o tema proposto e regra de negócio desenvolvida siga, descriminadamente, as referências das tabelas de pontuação, a saber:
 
-**Para a apresentação do grupo - per capta**
+- **Para a apresentação do grupo - per capta**
+O projeto do grupo deverá desenvolver a regra de negócio para o tema proposto com base na tabela abaixo.
 
 |Apresentação      |ponto|
 |------------------|:---:|
@@ -31,11 +34,13 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 |modularização     |0.25 |
 |não dependência   |0.25 |
 |acoplamento       |0.5  |
-|`TOTAL`           |**2**|
+|`TOTAL`           |**2**|  
+> `soma dos pontos`
 
 ---
 
-**Por integrante do grupo**
+- **Por integrante do grupo**
+Cada esttudante deverá apresentar seu scopo tem como premissa cumprir todos os aspectos da tabela abaixo.
 
 |Liguagem          |ponto|
 |------------------|:---:|
@@ -50,7 +55,7 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 ---
 
-**Para o grupo**
+- **Para cada integrante do grupo**
 
 |Critérios         |quantidade |ponto|
 |------------------|:---------:|:---:|
@@ -61,12 +66,18 @@ Os grupos terão que seguir os seguintes critérios objetovos para obteção do 
 
 ---
 
-**Máximo de pontos**
+- **Máximo de pontos**
 
 |Total de pontos em critérios| quantidade de integrantes | máximo de ponto|
 |:----------------:|:---------:|:---:|
 |10                |5         |**50** |  
 > `total de critério vezes integrantes`
+
+---
+
+## 2. Referências
+[Voltar ao topo(Sumário)](#sumário)  
+
 
 ---
 
